@@ -1,4 +1,4 @@
 # CS5704 SE Basics Workshop
-Hello!\n
-Shean Kim\n
+Hello!<br />
+Shean Kim<br />
 Hello GitHub!
