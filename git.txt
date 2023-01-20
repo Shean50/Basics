@@ -1,0 +1,19 @@
+Exercise: 1) int cmd_worktree(int ac, const char **av, const char *prefix)
+Exercise: 2) RelNotes-1.5.2.txt
+Exercise: 3) 100644 blob f55d4083edd518a0dad26a37ac4d5c6877184c4f    tutorial.txt
+Exercise: 5) Git 2.31
+Exercise: 6) 
+git log --graph --grep "refactored"
+* commit 9aebc4708ad21cc18f6d5c6909381abb0fe01023
+  Author: Ævar Arnfjörð Bjarmason <avarab@gmail.com>
+  Date:   Sat Jan 23 14:00:44 2021 +0100
+  
+      upload-pack tests: avoid a non-zero "grep" exit status
+      
+      Continue changing a test that 763b47bafa (t5703: stop losing return
+      codes of git commands, 2019-11-27) already refactored.
+Exercise: 7) Documentation/RelNotes/2.31.1.txt
+Exercise: 8) 
+* master
+  todo
+

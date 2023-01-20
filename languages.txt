@@ -1,0 +1,4 @@
+Q. What is your favorite programming language? Why?
+My favorite language is C an C++, becuase it can control low-level properties of computer.
+Q. Is your favorite language the one you are also most experienced with? If not, which language are you most experienced with?
+Yes, it is.
